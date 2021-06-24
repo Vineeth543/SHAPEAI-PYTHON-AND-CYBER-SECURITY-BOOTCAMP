@@ -1,0 +1,1 @@
+{"Location": "bangalore", "Date & Time": "24 Jun 2021 | 02:11:11 PM", "Temperature": 28.610000000000014, "Weather desc": "broken clouds", "Humidity": 49, "Wnd Speed": 5.66}
